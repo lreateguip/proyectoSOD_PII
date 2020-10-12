@@ -1,0 +1,3 @@
+com\execute\App.class
+com\execute\model\Order.class
+com\execute\aws\AwsKinesisClient.class
